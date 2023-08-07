@@ -1,6 +1,3 @@
-#Arduino Button Control: Interfacing a Button for Interactive Functionality
-
-
 int flag_led = 0;       // Variable to store the LED flag status
 #define Buttonpin 7     // Pin number for the button
 
